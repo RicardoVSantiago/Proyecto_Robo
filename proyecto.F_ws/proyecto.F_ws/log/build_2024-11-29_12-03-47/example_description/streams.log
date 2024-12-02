@@ -1,0 +1,69 @@
+[0.774s] Invoking command in '/home/han/proyect_ws/ros2_example_packages-main/ros2_example_packages-main/example_description': PYTHONPATH=/home/han/proyect_ws/build/example_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/han/proyect_ws/install/example_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/example_description build --build-base /home/han/proyect_ws/build/example_description/build install --record /home/han/proyect_ws/build/example_description/install.log --single-version-externally-managed install_data
+[0.929s] running egg_info
+[0.929s] creating ../../../build/example_description/example_description.egg-info
+[0.930s] writing ../../../build/example_description/example_description.egg-info/PKG-INFO
+[0.930s] writing dependency_links to ../../../build/example_description/example_description.egg-info/dependency_links.txt
+[0.930s] writing entry points to ../../../build/example_description/example_description.egg-info/entry_points.txt
+[0.930s] writing requirements to ../../../build/example_description/example_description.egg-info/requires.txt
+[0.930s] writing top-level names to ../../../build/example_description/example_description.egg-info/top_level.txt
+[0.930s] writing manifest file '../../../build/example_description/example_description.egg-info/SOURCES.txt'
+[0.931s] reading manifest file '../../../build/example_description/example_description.egg-info/SOURCES.txt'
+[0.932s] writing manifest file '../../../build/example_description/example_description.egg-info/SOURCES.txt'
+[0.932s] running build
+[0.932s] running build_py
+[0.932s] creating /home/han/proyect_ws/build/example_description/build
+[0.932s] creating /home/han/proyect_ws/build/example_description/build/lib
+[0.933s] creating /home/han/proyect_ws/build/example_description/build/lib/example_description
+[0.933s] copying example_description/__init__.py -> /home/han/proyect_ws/build/example_description/build/lib/example_description
+[0.933s] running install
+[0.933s] running install_lib
+[0.933s] creating /home/han/proyect_ws/install/example_description/lib/python3.10/site-packages/example_description
+[0.933s] copying /home/han/proyect_ws/build/example_description/build/lib/example_description/__init__.py -> /home/han/proyect_ws/install/example_description/lib/python3.10/site-packages/example_description
+[0.933s] byte-compiling /home/han/proyect_ws/install/example_description/lib/python3.10/site-packages/example_description/__init__.py to __init__.cpython-310.pyc
+[0.933s] running install_data
+[0.934s] creating /home/han/proyect_ws/install/example_description/share/ament_index
+[0.934s] creating /home/han/proyect_ws/install/example_description/share/ament_index/resource_index
+[0.934s] creating /home/han/proyect_ws/install/example_description/share/ament_index/resource_index/packages
+[0.934s] copying resource/example_description -> /home/han/proyect_ws/install/example_description/share/ament_index/resource_index/packages
+[0.934s] copying package.xml -> /home/han/proyect_ws/install/example_description/share/example_description
+[0.934s] creating /home/han/proyect_ws/install/example_description/share/example_description/launch
+[0.934s] copying launch/rrr_position_controller.yaml -> /home/han/proyect_ws/install/example_description/share/example_description/launch
+[0.934s] creating /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/rrr_full_robot.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/rrr_full_robot_stl_effort_controller.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/scara_full_robot_stl_position_controller.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/rrr_properties.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/rrr_full_robot_stl.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/rrr_full_robot_stl_position_controller.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/scara_full_robot_stl_effort_controller.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/scara_full_robot_stl_trajectory_controller.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/rrr_macros.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/rrr_full_robot_stl_trajectory_controller.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/scara_full_robot_stl.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] copying urdf/link1.stl -> /home/han/proyect_ws/install/example_description/share/example_description/urdf
+[0.934s] creating /home/han/proyect_ws/install/example_description/share/example_description/urdf/sensors
+[0.934s] copying urdf/sensors/sonar_sensor.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf/sensors
+[0.935s] copying urdf/sensors/imu_sensor.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf/sensors
+[0.935s] copying urdf/sensors/rrr_sensor_macro.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf/sensors
+[0.935s] copying urdf/sensors/camara_sensor.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf/sensors
+[0.935s] copying urdf/sensors/lidar_sensor.urdf -> /home/han/proyect_ws/install/example_description/share/example_description/urdf/sensors
+[0.935s] creating /home/han/proyect_ws/install/example_description/share/example_description/rviz
+[0.935s] copying rviz/model_sensors.rviz -> /home/han/proyect_ws/install/example_description/share/example_description/rviz
+[0.935s] copying rviz/urdf.rviz -> /home/han/proyect_ws/install/example_description/share/example_description/rviz
+[0.935s] creating /home/han/proyect_ws/install/example_description/share/example_description/config
+[0.935s] copying config/rrr_effort_controller.yaml -> /home/han/proyect_ws/install/example_description/share/example_description/config
+[0.935s] copying config/scara_effort_controller.yaml -> /home/han/proyect_ws/install/example_description/share/example_description/config
+[0.935s] copying config/rrr_trajectory_controller.yaml -> /home/han/proyect_ws/install/example_description/share/example_description/config
+[0.935s] copying config/scara_position_controller.yaml -> /home/han/proyect_ws/install/example_description/share/example_description/config
+[0.935s] copying config/scara_trajectory_controller.yaml -> /home/han/proyect_ws/install/example_description/share/example_description/config
+[0.935s] copying config/rrr_position_controller.yaml -> /home/han/proyect_ws/install/example_description/share/example_description/config
+[0.935s] creating /home/han/proyect_ws/install/example_description/share/example_description/worlds
+[0.935s] copying worlds/new_world.world -> /home/han/proyect_ws/install/example_description/share/example_description/worlds
+[0.935s] creating /home/han/proyect_ws/install/example_description/share/example_description/worlds/models
+[0.935s] copying worlds/models/house/model.config -> /home/han/proyect_ws/install/example_description/share/example_description/worlds/models
+[0.935s] copying worlds/models/house/model.sdf -> /home/han/proyect_ws/install/example_description/share/example_description/worlds/models
+[0.935s] running install_egg_info
+[0.937s] Copying ../../../build/example_description/example_description.egg-info to /home/han/proyect_ws/install/example_description/lib/python3.10/site-packages/example_description-0.0.0-py3.10.egg-info
+[0.937s] running install_scripts
+[0.950s] writing list of installed files to '/home/han/proyect_ws/build/example_description/install.log'
+[0.967s] Invoked command in '/home/han/proyect_ws/ros2_example_packages-main/ros2_example_packages-main/example_description' returned '0': PYTHONPATH=/home/han/proyect_ws/build/example_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/han/proyect_ws/install/example_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/example_description build --build-base /home/han/proyect_ws/build/example_description/build install --record /home/han/proyect_ws/build/example_description/install.log --single-version-externally-managed install_data

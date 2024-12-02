@@ -1,0 +1,20 @@
+[4.542s] Invoking command in '/home/robousr/proyecto.F_ws/src/example_description': PYTHONPATH=/home/robousr/proyecto.F_ws/build/example_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/proyecto.F_ws/install/example_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/example_description build --build-base /home/robousr/proyecto.F_ws/build/example_description/build install --record /home/robousr/proyecto.F_ws/build/example_description/install.log --single-version-externally-managed install_data
+[5.907s] running egg_info
+[5.908s] writing ../../build/example_description/example_description.egg-info/PKG-INFO
+[5.911s] writing dependency_links to ../../build/example_description/example_description.egg-info/dependency_links.txt
+[5.913s] writing entry points to ../../build/example_description/example_description.egg-info/entry_points.txt
+[5.919s] writing requirements to ../../build/example_description/example_description.egg-info/requires.txt
+[5.921s] writing top-level names to ../../build/example_description/example_description.egg-info/top_level.txt
+[5.926s] reading manifest file '../../build/example_description/example_description.egg-info/SOURCES.txt'
+[5.942s] writing manifest file '../../build/example_description/example_description.egg-info/SOURCES.txt'
+[5.942s] running build
+[5.943s] running build_py
+[5.946s] running install
+[5.952s] running install_lib
+[5.960s] running install_data
+[5.970s] running install_egg_info
+[5.989s] removing '/home/robousr/proyecto.F_ws/install/example_description/lib/python3.10/site-packages/example_description-0.0.0-py3.10.egg-info' (and everything under it)
+[5.989s] Copying ../../build/example_description/example_description.egg-info to /home/robousr/proyecto.F_ws/install/example_description/lib/python3.10/site-packages/example_description-0.0.0-py3.10.egg-info
+[6.005s] running install_scripts
+[6.102s] writing list of installed files to '/home/robousr/proyecto.F_ws/build/example_description/install.log'
+[6.233s] Invoked command in '/home/robousr/proyecto.F_ws/src/example_description' returned '0': PYTHONPATH=/home/robousr/proyecto.F_ws/build/example_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/proyecto.F_ws/install/example_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/example_description build --build-base /home/robousr/proyecto.F_ws/build/example_description/build install --record /home/robousr/proyecto.F_ws/build/example_description/install.log --single-version-externally-managed install_data

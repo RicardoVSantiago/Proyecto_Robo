@@ -1,0 +1,6 @@
+[console_scripts]
+rrr_position_test = example_bringup.rrr_position_test:main
+rrr_trajectory_test = example_bringup.rrr_trajectory_test:main
+scara_position_test = example_bringup.scara_position_test:main
+scara_trajectory_test = example_bringup.scara_trajectory_test:main
+

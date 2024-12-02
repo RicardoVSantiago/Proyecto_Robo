@@ -1,0 +1,24 @@
+[0.554s] Invoking command in '/home/han/proyect_ws/src/example_bringup': PYTHONPATH=/home/han/proyect_ws/build/example_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/example_bringup build --build-base /home/han/proyect_ws/build/example_bringup/build install --record /home/han/proyect_ws/build/example_bringup/install.log --single-version-externally-managed install_data
+[0.739s] running egg_info
+[0.739s] writing ../../build/example_bringup/example_bringup.egg-info/PKG-INFO
+[0.740s] writing dependency_links to ../../build/example_bringup/example_bringup.egg-info/dependency_links.txt
+[0.740s] writing entry points to ../../build/example_bringup/example_bringup.egg-info/entry_points.txt
+[0.740s] writing requirements to ../../build/example_bringup/example_bringup.egg-info/requires.txt
+[0.740s] writing top-level names to ../../build/example_bringup/example_bringup.egg-info/top_level.txt
+[0.742s] reading manifest file '../../build/example_bringup/example_bringup.egg-info/SOURCES.txt'
+[0.743s] writing manifest file '../../build/example_bringup/example_bringup.egg-info/SOURCES.txt'
+[0.743s] running build
+[0.743s] running build_py
+[0.743s] running install
+[0.743s] running install_lib
+[0.744s] running install_data
+[0.744s] running install_egg_info
+[0.746s] removing '/home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup-0.0.0-py3.10.egg-info' (and everything under it)
+[0.746s] Copying ../../build/example_bringup/example_bringup.egg-info to /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup-0.0.0-py3.10.egg-info
+[0.747s] running install_scripts
+[0.761s] Installing rrr_position_test script to /home/han/proyect_ws/install/example_bringup/lib/example_bringup
+[0.761s] Installing rrr_trajectory_test script to /home/han/proyect_ws/install/example_bringup/lib/example_bringup
+[0.761s] Installing scara_position_test script to /home/han/proyect_ws/install/example_bringup/lib/example_bringup
+[0.761s] Installing scara_trajectory_test script to /home/han/proyect_ws/install/example_bringup/lib/example_bringup
+[0.762s] writing list of installed files to '/home/han/proyect_ws/build/example_bringup/install.log'
+[0.778s] Invoked command in '/home/han/proyect_ws/src/example_bringup' returned '0': PYTHONPATH=/home/han/proyect_ws/build/example_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/example_bringup build --build-base /home/han/proyect_ws/build/example_bringup/build install --record /home/han/proyect_ws/build/example_bringup/install.log --single-version-externally-managed install_data

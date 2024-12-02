@@ -1,0 +1,62 @@
+[0.782s] Invoking command in '/home/han/proyect_ws/ros2_example_packages-main/ros2_example_packages-main/example_bringup': PYTHONPATH=/home/han/proyect_ws/build/example_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/example_bringup build --build-base /home/han/proyect_ws/build/example_bringup/build install --record /home/han/proyect_ws/build/example_bringup/install.log --single-version-externally-managed install_data
+[0.912s] running egg_info
+[0.912s] creating ../../../build/example_bringup/example_bringup.egg-info
+[0.912s] writing ../../../build/example_bringup/example_bringup.egg-info/PKG-INFO
+[0.913s] writing dependency_links to ../../../build/example_bringup/example_bringup.egg-info/dependency_links.txt
+[0.913s] writing entry points to ../../../build/example_bringup/example_bringup.egg-info/entry_points.txt
+[0.913s] writing requirements to ../../../build/example_bringup/example_bringup.egg-info/requires.txt
+[0.913s] writing top-level names to ../../../build/example_bringup/example_bringup.egg-info/top_level.txt
+[0.913s] writing manifest file '../../../build/example_bringup/example_bringup.egg-info/SOURCES.txt'
+[0.913s] reading manifest file '../../../build/example_bringup/example_bringup.egg-info/SOURCES.txt'
+[0.914s] writing manifest file '../../../build/example_bringup/example_bringup.egg-info/SOURCES.txt'
+[0.914s] running build
+[0.914s] running build_py
+[0.914s] creating /home/han/proyect_ws/build/example_bringup/build
+[0.914s] creating /home/han/proyect_ws/build/example_bringup/build/lib
+[0.914s] creating /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup
+[0.914s] copying example_bringup/__init__.py -> /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup
+[0.914s] copying example_bringup/trayectory_node.py -> /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup
+[0.914s] copying example_bringup/rrr_position_test.py -> /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup
+[0.914s] copying example_bringup/trayectory_generator.py -> /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup
+[0.914s] copying example_bringup/scara_trajectory_test.py -> /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup
+[0.914s] copying example_bringup/scara_position_test.py -> /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup
+[0.914s] copying example_bringup/rrr_trajectory_test.py -> /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup
+[0.915s] running install
+[0.915s] running install_lib
+[0.915s] creating /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup
+[0.915s] copying /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup/__init__.py -> /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup
+[0.915s] copying /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup/trayectory_node.py -> /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup
+[0.915s] copying /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup/rrr_position_test.py -> /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup
+[0.915s] copying /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup/trayectory_generator.py -> /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup
+[0.915s] copying /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup/scara_trajectory_test.py -> /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup
+[0.915s] copying /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup/scara_position_test.py -> /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup
+[0.916s] copying /home/han/proyect_ws/build/example_bringup/build/lib/example_bringup/rrr_trajectory_test.py -> /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup
+[0.916s] byte-compiling /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup/__init__.py to __init__.cpython-310.pyc
+[0.916s] byte-compiling /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup/trayectory_node.py to trayectory_node.cpython-310.pyc
+[0.918s] byte-compiling /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup/rrr_position_test.py to rrr_position_test.cpython-310.pyc
+[0.918s] byte-compiling /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup/trayectory_generator.py to trayectory_generator.cpython-310.pyc
+[0.920s] byte-compiling /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup/scara_trajectory_test.py to scara_trajectory_test.cpython-310.pyc
+[0.920s] byte-compiling /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup/scara_position_test.py to scara_position_test.cpython-310.pyc
+[0.920s] byte-compiling /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup/rrr_trajectory_test.py to rrr_trajectory_test.cpython-310.pyc
+[0.920s] running install_data
+[0.920s] creating /home/han/proyect_ws/install/example_bringup/share/ament_index
+[0.920s] creating /home/han/proyect_ws/install/example_bringup/share/ament_index/resource_index
+[0.920s] creating /home/han/proyect_ws/install/example_bringup/share/ament_index/resource_index/packages
+[0.921s] copying resource/example_bringup -> /home/han/proyect_ws/install/example_bringup/share/ament_index/resource_index/packages
+[0.921s] copying package.xml -> /home/han/proyect_ws/install/example_bringup/share/example_bringup
+[0.921s] creating /home/han/proyect_ws/install/example_bringup/share/example_bringup/launch
+[0.921s] copying launch/rrr_effort_controller.launch.py -> /home/han/proyect_ws/install/example_bringup/share/example_bringup/launch
+[0.921s] copying launch/scara_trajectory_controller.launch.py -> /home/han/proyect_ws/install/example_bringup/share/example_bringup/launch
+[0.921s] copying launch/scara_effort_controller.launch.py -> /home/han/proyect_ws/install/example_bringup/share/example_bringup/launch
+[0.921s] copying launch/scara_position_controller.launch.py -> /home/han/proyect_ws/install/example_bringup/share/example_bringup/launch
+[0.921s] copying launch/rrr_position_controller.launch.py -> /home/han/proyect_ws/install/example_bringup/share/example_bringup/launch
+[0.921s] copying launch/rrr_trajectory_controller.launch.py -> /home/han/proyect_ws/install/example_bringup/share/example_bringup/launch
+[0.921s] running install_egg_info
+[0.922s] Copying ../../../build/example_bringup/example_bringup.egg-info to /home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup-0.0.0-py3.10.egg-info
+[0.922s] running install_scripts
+[0.935s] Installing rrr_position_test script to /home/han/proyect_ws/install/example_bringup/lib/example_bringup
+[0.935s] Installing rrr_trajectory_test script to /home/han/proyect_ws/install/example_bringup/lib/example_bringup
+[0.935s] Installing scara_position_test script to /home/han/proyect_ws/install/example_bringup/lib/example_bringup
+[0.935s] Installing scara_trajectory_test script to /home/han/proyect_ws/install/example_bringup/lib/example_bringup
+[0.935s] writing list of installed files to '/home/han/proyect_ws/build/example_bringup/install.log'
+[0.951s] Invoked command in '/home/han/proyect_ws/ros2_example_packages-main/ros2_example_packages-main/example_bringup' returned '0': PYTHONPATH=/home/han/proyect_ws/build/example_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/han/proyect_ws/install/example_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/example_bringup build --build-base /home/han/proyect_ws/build/example_bringup/build install --record /home/han/proyect_ws/build/example_bringup/install.log --single-version-externally-managed install_data

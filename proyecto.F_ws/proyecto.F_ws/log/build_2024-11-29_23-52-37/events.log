@@ -1,0 +1,238 @@
+[0.000000] (-) TimerEvent: {}
+[0.007816] (example_bringup) JobQueued: {'identifier': 'example_bringup', 'dependencies': OrderedDict()}
+[0.007917] (example_description) JobQueued: {'identifier': 'example_description', 'dependencies': OrderedDict()}
+[0.007972] (example_bringup) JobStarted: {'identifier': 'example_bringup'}
+[0.089371] (-) TimerEvent: {}
+[0.146441] (example_description) JobStarted: {'identifier': 'example_description'}
+[0.192684] (-) TimerEvent: {}
+[0.296677] (-) TimerEvent: {}
+[0.398599] (-) TimerEvent: {}
+[0.499857] (-) TimerEvent: {}
+[0.606137] (-) TimerEvent: {}
+[0.714421] (-) TimerEvent: {}
+[0.816940] (-) TimerEvent: {}
+[0.931426] (-) TimerEvent: {}
+[1.065932] (-) TimerEvent: {}
+[1.176492] (-) TimerEvent: {}
+[1.278768] (-) TimerEvent: {}
+[1.388456] (-) TimerEvent: {}
+[1.489066] (-) TimerEvent: {}
+[1.596076] (-) TimerEvent: {}
+[1.735392] (-) TimerEvent: {}
+[1.851747] (-) TimerEvent: {}
+[1.954710] (-) TimerEvent: {}
+[2.059914] (-) TimerEvent: {}
+[2.199540] (-) TimerEvent: {}
+[2.349916] (-) TimerEvent: {}
+[2.452748] (-) TimerEvent: {}
+[2.554270] (-) TimerEvent: {}
+[2.657952] (-) TimerEvent: {}
+[2.778975] (-) TimerEvent: {}
+[2.893724] (-) TimerEvent: {}
+[2.997583] (-) TimerEvent: {}
+[3.174932] (-) TimerEvent: {}
+[3.277552] (-) TimerEvent: {}
+[3.380250] (-) TimerEvent: {}
+[3.485148] (-) TimerEvent: {}
+[3.599867] (-) TimerEvent: {}
+[3.701343] (-) TimerEvent: {}
+[3.802317] (-) TimerEvent: {}
+[3.902842] (-) TimerEvent: {}
+[4.004321] (-) TimerEvent: {}
+[4.105517] (-) TimerEvent: {}
+[4.206479] (-) TimerEvent: {}
+[4.308536] (-) TimerEvent: {}
+[4.409943] (-) TimerEvent: {}
+[4.513138] (-) TimerEvent: {}
+[4.615726] (-) TimerEvent: {}
+[4.717859] (-) TimerEvent: {}
+[4.821254] (-) TimerEvent: {}
+[4.929774] (-) TimerEvent: {}
+[5.032002] (-) TimerEvent: {}
+[5.134319] (-) TimerEvent: {}
+[5.235575] (-) TimerEvent: {}
+[5.358424] (-) TimerEvent: {}
+[5.465813] (-) TimerEvent: {}
+[5.611680] (-) TimerEvent: {}
+[5.717168] (-) TimerEvent: {}
+[5.841496] (-) TimerEvent: {}
+[5.942375] (-) TimerEvent: {}
+[6.047569] (-) TimerEvent: {}
+[6.152787] (-) TimerEvent: {}
+[6.258600] (-) TimerEvent: {}
+[6.362031] (-) TimerEvent: {}
+[6.477919] (-) TimerEvent: {}
+[6.628519] (-) TimerEvent: {}
+[7.142447] (-) TimerEvent: {}
+[7.247758] (-) TimerEvent: {}
+[7.408834] (-) TimerEvent: {}
+[7.511657] (-) TimerEvent: {}
+[7.649105] (-) TimerEvent: {}
+[7.876014] (-) TimerEvent: {}
+[7.994142] (-) TimerEvent: {}
+[8.168873] (-) TimerEvent: {}
+[8.293996] (-) TimerEvent: {}
+[8.428962] (-) TimerEvent: {}
+[8.544459] (-) TimerEvent: {}
+[8.650189] (-) TimerEvent: {}
+[8.763119] (-) TimerEvent: {}
+[9.041816] (-) TimerEvent: {}
+[9.156774] (-) TimerEvent: {}
+[9.290436] (-) TimerEvent: {}
+[9.661560] (-) TimerEvent: {}
+[9.804965] (-) TimerEvent: {}
+[9.989128] (-) TimerEvent: {}
+[10.213098] (-) TimerEvent: {}
+[10.376953] (-) TimerEvent: {}
+[10.545982] (-) TimerEvent: {}
+[10.648184] (-) TimerEvent: {}
+[10.805070] (-) TimerEvent: {}
+[10.932287] (-) TimerEvent: {}
+[11.064585] (-) TimerEvent: {}
+[11.394564] (-) TimerEvent: {}
+[11.500789] (-) TimerEvent: {}
+[11.619989] (-) TimerEvent: {}
+[11.821844] (-) TimerEvent: {}
+[11.976300] (-) TimerEvent: {}
+[12.091582] (-) TimerEvent: {}
+[12.193151] (-) TimerEvent: {}
+[12.411781] (-) TimerEvent: {}
+[12.515355] (-) TimerEvent: {}
+[12.670416] (-) TimerEvent: {}
+[12.774960] (-) TimerEvent: {}
+[12.892026] (-) TimerEvent: {}
+[13.052086] (-) TimerEvent: {}
+[13.160630] (-) TimerEvent: {}
+[13.353152] (-) TimerEvent: {}
+[13.453977] (-) TimerEvent: {}
+[13.558321] (-) TimerEvent: {}
+[13.661866] (-) TimerEvent: {}
+[13.763733] (-) TimerEvent: {}
+[13.866225] (-) TimerEvent: {}
+[13.968534] (-) TimerEvent: {}
+[14.077782] (-) TimerEvent: {}
+[14.184554] (-) TimerEvent: {}
+[14.294234] (-) TimerEvent: {}
+[14.426383] (-) TimerEvent: {}
+[14.531501] (-) TimerEvent: {}
+[14.677009] (-) TimerEvent: {}
+[15.204606] (-) TimerEvent: {}
+[15.340072] (-) TimerEvent: {}
+[15.608420] (-) TimerEvent: {}
+[15.980554] (-) TimerEvent: {}
+[16.083455] (-) TimerEvent: {}
+[16.192925] (-) TimerEvent: {}
+[16.295649] (-) TimerEvent: {}
+[16.475364] (-) TimerEvent: {}
+[16.609981] (-) TimerEvent: {}
+[16.954478] (-) TimerEvent: {}
+[17.065430] (-) TimerEvent: {}
+[17.242983] (-) TimerEvent: {}
+[17.358444] (-) TimerEvent: {}
+[17.481783] (-) TimerEvent: {}
+[17.589697] (-) TimerEvent: {}
+[18.168659] (-) TimerEvent: {}
+[18.485962] (-) TimerEvent: {}
+[18.586843] (-) TimerEvent: {}
+[18.874448] (-) TimerEvent: {}
+[19.278143] (-) TimerEvent: {}
+[19.387916] (-) TimerEvent: {}
+[19.489860] (-) TimerEvent: {}
+[19.614223] (-) TimerEvent: {}
+[19.857082] (-) TimerEvent: {}
+[19.980358] (-) TimerEvent: {}
+[20.114196] (-) TimerEvent: {}
+[20.218508] (-) TimerEvent: {}
+[20.342608] (-) TimerEvent: {}
+[20.447690] (-) TimerEvent: {}
+[20.551722] (-) TimerEvent: {}
+[20.652564] (-) TimerEvent: {}
+[20.762505] (-) TimerEvent: {}
+[20.880199] (-) TimerEvent: {}
+[20.981148] (-) TimerEvent: {}
+[21.088919] (-) TimerEvent: {}
+[21.204130] (-) TimerEvent: {}
+[21.244795] (example_description) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/example_description', 'build', '--build-base', '/home/robousr/proyecto.F_ws/build/example_description/build', 'install', '--record', '/home/robousr/proyecto.F_ws/build/example_description/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/robousr/proyecto.F_ws/src/example_description', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US:', 'USER': 'robousr', 'LC_TIME': 'es_MX.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/robousr', 'OLDPWD': '/home/robousr', 'DESKTOP_SESSION': 'ubuntu', 'NVM_BIN': '/home/robousr/.nvm/versions/node/v20.16.0/bin', 'PYENV_SHELL': 'bash', 'NVM_INC': '/home/robousr/.nvm/versions/node/v20.16.0/include/node', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'es_MX.UTF-8', 'SYSTEMD_EXEC_PID': '1651', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'GIT_PS1_SHOWUNTRACKEDFILES': 'true', 'COLORTERM': 'truecolor', 'GIT_PS1_SHOWSTASHSTATE': 'true', 'NVM_DIR': '/home/robousr/.nvm', '_colcon_cd_root': '/opt/ros/humble/', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/robousr/proyecto.F_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'robousr', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'robousr', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/robousr/.nvm/versions/node/v20.16.0/bin:/home/robousr/.pyenv/shims:/home/robousr/.pyenv/bin:/home/robousr/.local/bin:/home/robousr/.cargo/bin:/home/robousr/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/robolab-vm:@/tmp/.ICE-unix/1617,unix/robolab-vm:/tmp/.ICE-unix/1617', 'GIT_PS1_SHOWDIRTYSTATE': 'true', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'es_MX.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/039806de_94f0_4f99_9cdc_8ea76ec42904', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'es_MX.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.SNN0X2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.144', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '10', 'AMENT_PREFIX_PATH': '/home/robousr/proyecto.F_ws/install/example_description:/home/robousr/proyecto.F_ws/install/example_bringup:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'es_MX.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'es_MX.UTF-8', 'LC_IDENTIFICATION': 'es_MX.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/robousr/proyecto.F_ws/build/example_description', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'VIRTUAL_ENV_DISABLE_PROMPT': 'true', 'NVM_CD_FLAGS': '', 'PYENV_ROOT': '/home/robousr/.pyenv', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/robousr/proyecto.F_ws/build/example_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/proyecto.F_ws/install/example_description/lib/python3.10/site-packages:/home/robousr/proyecto.F_ws/install/example_description/lib/python3.10/site-packages:/home/robousr/proyecto.F_ws/install/example_bringup/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'es_MX.UTF-8', 'LC_PAPER': 'es_MX.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[21.319169] (example_bringup) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/example_bringup', 'build', '--build-base', '/home/robousr/proyecto.F_ws/build/example_bringup/build', 'install', '--record', '/home/robousr/proyecto.F_ws/build/example_bringup/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/robousr/proyecto.F_ws/src/example_bringup', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US:', 'USER': 'robousr', 'LC_TIME': 'es_MX.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/robousr', 'OLDPWD': '/home/robousr', 'DESKTOP_SESSION': 'ubuntu', 'NVM_BIN': '/home/robousr/.nvm/versions/node/v20.16.0/bin', 'PYENV_SHELL': 'bash', 'NVM_INC': '/home/robousr/.nvm/versions/node/v20.16.0/include/node', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'es_MX.UTF-8', 'SYSTEMD_EXEC_PID': '1651', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'GIT_PS1_SHOWUNTRACKEDFILES': 'true', 'COLORTERM': 'truecolor', 'GIT_PS1_SHOWSTASHSTATE': 'true', 'NVM_DIR': '/home/robousr/.nvm', '_colcon_cd_root': '/opt/ros/humble/', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/robousr/proyecto.F_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'robousr', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'robousr', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/robousr/.nvm/versions/node/v20.16.0/bin:/home/robousr/.pyenv/shims:/home/robousr/.pyenv/bin:/home/robousr/.local/bin:/home/robousr/.cargo/bin:/home/robousr/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/robolab-vm:@/tmp/.ICE-unix/1617,unix/robolab-vm:/tmp/.ICE-unix/1617', 'GIT_PS1_SHOWDIRTYSTATE': 'true', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'es_MX.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/039806de_94f0_4f99_9cdc_8ea76ec42904', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'es_MX.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.SNN0X2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.144', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '10', 'AMENT_PREFIX_PATH': '/home/robousr/proyecto.F_ws/install/example_description:/home/robousr/proyecto.F_ws/install/example_bringup:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'es_MX.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'es_MX.UTF-8', 'LC_IDENTIFICATION': 'es_MX.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/robousr/proyecto.F_ws/build/example_bringup', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'VIRTUAL_ENV_DISABLE_PROMPT': 'true', 'NVM_CD_FLAGS': '', 'PYENV_ROOT': '/home/robousr/.pyenv', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/robousr/proyecto.F_ws/build/example_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/proyecto.F_ws/install/example_bringup/lib/python3.10/site-packages:/home/robousr/proyecto.F_ws/install/example_description/lib/python3.10/site-packages:/home/robousr/proyecto.F_ws/install/example_bringup/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'es_MX.UTF-8', 'LC_PAPER': 'es_MX.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[21.404871] (-) TimerEvent: {}
+[21.519805] (-) TimerEvent: {}
+[21.634105] (-) TimerEvent: {}
+[21.737583] (-) TimerEvent: {}
+[21.865177] (-) TimerEvent: {}
+[21.979163] (-) TimerEvent: {}
+[22.144015] (-) TimerEvent: {}
+[22.353538] (-) TimerEvent: {}
+[22.568818] (-) TimerEvent: {}
+[22.686196] (-) TimerEvent: {}
+[22.808791] (-) TimerEvent: {}
+[22.910513] (-) TimerEvent: {}
+[23.015845] (-) TimerEvent: {}
+[23.118380] (-) TimerEvent: {}
+[23.236916] (-) TimerEvent: {}
+[23.342789] (-) TimerEvent: {}
+[23.450172] (-) TimerEvent: {}
+[23.553537] (-) TimerEvent: {}
+[23.656143] (-) TimerEvent: {}
+[23.763139] (-) TimerEvent: {}
+[23.865731] (-) TimerEvent: {}
+[23.966732] (-) TimerEvent: {}
+[24.068296] (-) TimerEvent: {}
+[24.183726] (-) TimerEvent: {}
+[24.256697] (example_description) StdoutLine: {'line': b'running egg_info\n'}
+[24.258532] (example_description) StdoutLine: {'line': b'writing ../../build/example_description/example_description.egg-info/PKG-INFO\n'}
+[24.260665] (example_description) StdoutLine: {'line': b'writing dependency_links to ../../build/example_description/example_description.egg-info/dependency_links.txt\n'}
+[24.262222] (example_description) StdoutLine: {'line': b'writing entry points to ../../build/example_description/example_description.egg-info/entry_points.txt\n'}
+[24.263814] (example_description) StdoutLine: {'line': b'writing requirements to ../../build/example_description/example_description.egg-info/requires.txt\n'}
+[24.265147] (example_description) StdoutLine: {'line': b'writing top-level names to ../../build/example_description/example_description.egg-info/top_level.txt\n'}
+[24.274451] (example_description) StdoutLine: {'line': b"reading manifest file '../../build/example_description/example_description.egg-info/SOURCES.txt'\n"}
+[24.281940] (example_description) StdoutLine: {'line': b"writing manifest file '../../build/example_description/example_description.egg-info/SOURCES.txt'\n"}
+[24.282459] (example_description) StdoutLine: {'line': b'running build\n'}
+[24.282630] (example_description) StdoutLine: {'line': b'running build_py\n'}
+[24.283163] (example_description) StdoutLine: {'line': b'running install\n'}
+[24.284437] (-) TimerEvent: {}
+[24.287321] (example_description) StdoutLine: {'line': b'running install_lib\n'}
+[24.292721] (example_description) StdoutLine: {'line': b'running install_data\n'}
+[24.293154] (example_description) StdoutLine: {'line': b'copying urdf/scara_full_robot_stl.urdf -> /home/robousr/proyecto.F_ws/install/example_description/share/example_description/urdf\n'}
+[24.297180] (example_description) StdoutLine: {'line': b'running install_egg_info\n'}
+[24.305059] (example_description) StdoutLine: {'line': b"removing '/home/robousr/proyecto.F_ws/install/example_description/lib/python3.10/site-packages/example_description-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[24.317786] (example_description) StdoutLine: {'line': b'Copying ../../build/example_description/example_description.egg-info to /home/robousr/proyecto.F_ws/install/example_description/lib/python3.10/site-packages/example_description-0.0.0-py3.10.egg-info\n'}
+[24.341323] (example_description) StdoutLine: {'line': b'running install_scripts\n'}
+[24.384847] (-) TimerEvent: {}
+[24.511172] (-) TimerEvent: {}
+[24.517071] (example_description) StdoutLine: {'line': b"writing list of installed files to '/home/robousr/proyecto.F_ws/build/example_description/install.log'\n"}
+[24.574672] (example_bringup) StdoutLine: {'line': b'running egg_info\n'}
+[24.577295] (example_bringup) StdoutLine: {'line': b'writing ../../build/example_bringup/example_bringup.egg-info/PKG-INFO\n'}
+[24.580722] (example_bringup) StdoutLine: {'line': b'writing dependency_links to ../../build/example_bringup/example_bringup.egg-info/dependency_links.txt\n'}
+[24.635786] (-) TimerEvent: {}
+[24.640689] (example_bringup) StdoutLine: {'line': b'writing entry points to ../../build/example_bringup/example_bringup.egg-info/entry_points.txt\n'}
+[24.641063] (example_bringup) StdoutLine: {'line': b'writing requirements to ../../build/example_bringup/example_bringup.egg-info/requires.txt\n'}
+[24.641362] (example_bringup) StdoutLine: {'line': b'writing top-level names to ../../build/example_bringup/example_bringup.egg-info/top_level.txt\n'}
+[24.642278] (example_bringup) StdoutLine: {'line': b"reading manifest file '../../build/example_bringup/example_bringup.egg-info/SOURCES.txt'\n"}
+[24.696485] (example_bringup) StdoutLine: {'line': b"writing manifest file '../../build/example_bringup/example_bringup.egg-info/SOURCES.txt'\n"}
+[24.696883] (example_bringup) StdoutLine: {'line': b'running build\n'}
+[24.705518] (example_bringup) StdoutLine: {'line': b'running build_py\n'}
+[24.706298] (example_bringup) StdoutLine: {'line': b'running install\n'}
+[24.715036] (example_bringup) StdoutLine: {'line': b'running install_lib\n'}
+[24.732985] (example_bringup) StdoutLine: {'line': b'running install_data\n'}
+[24.735500] (example_bringup) StdoutLine: {'line': b'running install_egg_info\n'}
+[24.885673] (-) TimerEvent: {}
+[24.917000] (example_bringup) StdoutLine: {'line': b"removing '/home/robousr/proyecto.F_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[24.934674] (example_bringup) StdoutLine: {'line': b'Copying ../../build/example_bringup/example_bringup.egg-info to /home/robousr/proyecto.F_ws/install/example_bringup/lib/python3.10/site-packages/example_bringup-0.0.0-py3.10.egg-info\n'}
+[24.979070] (example_bringup) StdoutLine: {'line': b'running install_scripts\n'}
+[24.994430] (-) TimerEvent: {}
+[25.100414] (-) TimerEvent: {}
+[25.209292] (-) TimerEvent: {}
+[25.318393] (-) TimerEvent: {}
+[25.425006] (example_description) CommandEnded: {'returncode': 0}
+[25.434842] (-) TimerEvent: {}
+[25.466543] (example_bringup) StdoutLine: {'line': b'Installing rrr_position_test script to /home/robousr/proyecto.F_ws/install/example_bringup/lib/example_bringup\n'}
+[25.472990] (example_bringup) StdoutLine: {'line': b'Installing rrr_trajectory_test script to /home/robousr/proyecto.F_ws/install/example_bringup/lib/example_bringup\n'}
+[25.473457] (example_bringup) StdoutLine: {'line': b'Installing scara_position_test script to /home/robousr/proyecto.F_ws/install/example_bringup/lib/example_bringup\n'}
+[25.473720] (example_bringup) StdoutLine: {'line': b'Installing scara_trajectory_test script to /home/robousr/proyecto.F_ws/install/example_bringup/lib/example_bringup\n'}
+[25.485279] (example_bringup) StdoutLine: {'line': b"writing list of installed files to '/home/robousr/proyecto.F_ws/build/example_bringup/install.log'\n"}
+[25.538052] (-) TimerEvent: {}
+[25.611770] (example_description) JobEnded: {'identifier': 'example_description', 'rc': 0}
+[25.638007] (example_bringup) CommandEnded: {'returncode': 0}
+[25.645717] (-) TimerEvent: {}
+[25.679419] (example_bringup) JobEnded: {'identifier': 'example_bringup', 'rc': 0}
+[25.684876] (-) EventReactorShutdown: {}
